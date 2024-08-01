@@ -27,3 +27,5 @@ Clone the repository and install the necessary packages:
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
+
+remember to change the api variable, username and password to the appropriate names
